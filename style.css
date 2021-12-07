@@ -1,0 +1,13 @@
+.mini-box{
+    background-color: chocolate;
+    width: 120px;
+    height: 120px;
+    margin-top: 40px;
+}
+
+.big-box{
+    background-color: darkolivegreen;
+    width: 400px;
+    height: 400px;
+    margin: 25px auto;
+}
